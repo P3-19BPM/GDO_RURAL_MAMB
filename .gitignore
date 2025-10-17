@@ -54,7 +54,8 @@ cover/
 # Translations
 *.mo
 *.pot
-
+csv/
+csv*
 # Django stuff:
 *.log
 local_settings.py
@@ -132,6 +133,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venvMAMB/
 ENV/
 env.bak/
 venv.bak/
